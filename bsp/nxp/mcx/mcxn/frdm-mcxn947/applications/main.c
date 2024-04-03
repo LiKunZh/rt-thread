@@ -13,7 +13,6 @@
  */
 
 #include <rtdevice.h>
-#include <rtthread.h>
 #include "drv_pin.h"
 
 #define LEDB_PIN        ((0*32)+10)
